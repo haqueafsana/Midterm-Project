@@ -1,0 +1,110 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+background-color: lightblue;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+.p creeper {
+    text-align: center;
+}
+
+.p ruin1 {
+    text-align: center; 
+}
+.creeper {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#buttons {
+  text-align: center;
+}
+
+.button {
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.hit {
+  background-color: lightgreen;
+  color: black;
+}
+
+.run {
+  background-color: lightgreen;
+  color: black;
+}
+
+.try {
+  background-color: red;
+  color: black;
+}
+.move {
+  background-color: lightgreen;
+  color: black;	
+}
+
+.play {
+  background-color: lightgreen;
+  color: black;	
+}
+
+.blow{
+  width: 50%;
+  height: auto;
+  display: flex;
+  margin:auto;
+  justify-content:center;
+}
+.creeper1{
+   margin:auto;
+   justify-content:center;
+   display:flex;  
+    margin-bottom:10px;
+}
+
+.ruin {
+     margin:auto;
+   justify-content:center;
+   display:flex;
+     width: 50%;
+  height: auto;
+  display: block;
+}
+
+.sword {
+  margin:auto;
+   justify-content:center;
+   display:flex;
+     width: 50%;
+  height: auto;
+  display: block;
+}
+
+.zombie {
+ margin:auto;
+   justify-content:center;
+   display:flex;
+     width: 50%;
+  height: auto;
+  display: block;
+}
+
+.day {
+ margin:auto;
+   justify-content:center;
+   display:flex;
+     width: 50%;
+  height: auto;
+  display: block;
+}
